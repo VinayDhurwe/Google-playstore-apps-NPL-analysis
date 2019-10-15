@@ -1,2 +1,2 @@
-# Google-playstore-apps-NPL-analysis
+# Google-playstore-apps-NLP-analysis
 Analysis of Google playstore apps with NPL
